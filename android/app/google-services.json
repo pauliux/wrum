@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557866559515",
+    "firebase_url": "https://wrum-2019.firebaseio.com",
+    "project_id": "wrum-2019",
+    "storage_bucket": "wrum-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557866559515:android:850c2e58b80ea1b25530be",
+        "android_client_info": {
+          "package_name": "com.wrum.wrum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557866559515-qenukm2das5f6itjd33phbio9g54s2jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWcemh77pyac6UyC7RjanAFdKUYG8U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557866559515-qenukm2das5f6itjd33phbio9g54s2jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
